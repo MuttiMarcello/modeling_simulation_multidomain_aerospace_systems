@@ -1,0 +1,6 @@
+- 'casual_model_nozzle_layers_temperature_profiles.png' - Nozzle layers temperatures with casual MATLAB model
+- 'casual_acasual_models_temperature_profiles_comparison.png' - Absolute discrepancy between casual and acasual models simulation results
+- 'motor_voltage_angular_velocity_error_transient_profiles.png' - Motor voltage and angular velocity error (with respect to reference) profiles 
+- 'gearbox_temperature_heat_flux_transient_profiles.png' - Gearbox wall temperature and heat flux profiles with no cooling
+- 'gearbox_temperature_profile_with_cooling.png' - Gearbox wall temperature profile with water cooling, and hysteresis switching profile. NOTE: The plot shows T_t instead of T_w
+- 'sink_tank_temperature_heat_flux_profiles.png' - Sink tank temperature and outgoing heat flux profiles, with hysteresis switching profile
